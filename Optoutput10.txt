@@ -1,0 +1,9 @@
+period 48    ema 11  fsma 25 ssma 36  abs 0.0000750  profit 0.0766736 winchance 71.94  crit: 0.0011376  trades 139
+period 48    ema 11  fsma 25 ssma 36  abs 0.0001000  profit 0.0786834 winchance 73.02  crit: 0.0005644  trades 126
+period 65    ema 6  fsma 30 ssma 32  abs 0.0001250  profit 0.0905864 winchance 68.50  crit: 0.0001813  trades 127
+period 69    ema 26  fsma 18 ssma 27  abs 0.0000000  profit 0.1294912 winchance 71.18  crit: 0.0005525  trades 170
+period 71    ema 14  fsma 14 ssma 26  abs 0.0001250  profit 0.0786913 winchance 61.21  crit: 0.0003400  trades 116
+period 80    ema 17  fsma 12 ssma 19  abs 0.0000750  profit 0.1160420 winchance 67.11  crit: 0.0005210  trades 149
+period 80    ema 17  fsma 12 ssma 19  abs 0.0001000  profit 0.1261504 winchance 67.88  crit: 0.0016776  trades 137
+period 80    ema 17  fsma 17 ssma 19  abs 0.0001000  profit 0.1362032 winchance 66.01  crit: 0.0008535  trades 153
+period 88    ema 8  fsma 14 ssma 22  abs 0.0001250  profit 0.1314328 winchance 64.80  crit: 0.0006241  trades 125

@@ -1,0 +1,1 @@
+maximize using: net win profit to net lose profit ratio (with minimum)
